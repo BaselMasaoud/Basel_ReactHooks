@@ -1,0 +1,36 @@
+[
+    {"id":1,
+    "name": "David",
+    "username": "David22",
+    "password":12345,
+    "photo": "https://i.pinimg.com/originals/e2/3c/99/e23c9964f24987103dcb2395e98bc8aa.jpg",
+    "email": "davidg31d@gmail.com"
+    }
+    ,
+    {"id":2,
+    "name": "Maram",
+    "username": "Maram123",
+    "password":123,
+    "photo": "https://i.pinimg.com/originals/9e/e4/94/9ee49490dfddd3648215603e4b5c583d.jpg",
+    "email": "maaram2421@gmail.com"
+    }
+    ,
+    {"id":3,
+    "name": "Dana",
+    "username": "Dana200",
+    "password":2000,
+    "photo": "https://i.pinimg.com/originals/bf/24/b7/bf24b76aca4f608990d558545b3c4bb0.jpg",
+    "email": "dana225@gmail.com"
+    }
+    ,
+
+    {
+    "id":4,
+    "name": "basel",
+    "username": "basel",
+    "password":12345,
+    "photo": "https://i.pinimg.com/750x/d6/f4/df/d6f4df8c818dd44facd56da094f81128.jpg",
+    "email": "basel@gmail.com"
+    }
+
+]
